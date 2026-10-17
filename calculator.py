@@ -1,5 +1,5 @@
 
-CONTRIBUTORS = ["Jovany", "Student B"] # Conflicts generator 1
+CONTRIBUTORS = ["Jovany", "Michel"] # Conflicts generator 1
 
 def add(a, b):
     return a + b
